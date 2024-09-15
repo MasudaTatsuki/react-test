@@ -15,7 +15,7 @@ const Header = () => {
                 </li>
             </ul>
             <div className={styles.social}>
-                <img width={32} height={32} src="logo192.png" />
+                <img width={32} height={32} alt="test" src="logo192.png" />
             </div>
         </header>
     );
